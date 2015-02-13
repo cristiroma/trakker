@@ -9,27 +9,27 @@ core = 7.34
 projects[drupal][type] = core
 
 ; EdW modules
-; projects[edw_extras][subdir] = edw
-; projects[edw_extras][location] = http://fserver.eaudeweb.ro/fserver
-; projects[edw_extras][type] = module
+projects[edw_extras][subdir] = edw
+projects[edw_extras][location] = http://fserver.eaudeweb.ro/fserver
+projects[edw_extras][type] = module
 
 ; Very common modules used in almost all projects
 projects[ctools][subdir] = contrib
-; projects[date][subdir] = contrib
-; projects[entity][subdir] = contrib
-; projects[entityreference][subdir] = contrib
-; projects[features][subdir] = contrib
-; projects[ftools][subdir] = contrib
+projects[date][subdir] = contrib
+projects[entity][subdir] = contrib
+projects[entityreference][subdir] = contrib
+projects[features][subdir] = contrib
+projects[ftools][subdir] = contrib
 ; projects[wysiwyg][subdir] = contrib
-; projects[jquery_update][subdir] = contrib
-; projects[libraries][subdir] = contrib
-; projects[link][subdir] = contrib
-; projects[pathauto][subdir] = contrib
-; projects[strongarm][subdir] = contrib
-; projects[taxonomy_access_fix][subdir] = contrib
-; projects[token][subdir] = contrib
-; projects[uuid][subdir] = contrib
-; projects[variable][subdir] = contrib
+projects[jquery_update][subdir] = contrib
+projects[libraries][subdir] = contrib
+projects[link][subdir] = contrib
+projects[pathauto][subdir] = contrib
+projects[strongarm][subdir] = contrib
+projects[taxonomy_access_fix][subdir] = contrib
+projects[token][subdir] = contrib
+projects[uuid][subdir] = contrib
+projects[variable][subdir] = contrib
 projects[views][subdir] = contrib
 ; projects[wysiwyg][subdir] = contrib
 

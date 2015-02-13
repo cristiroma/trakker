@@ -28,25 +28,25 @@ dependencies[] = file
 dependencies[] = rdf
 
 ; EdW modules
-; dependencies[] = edw_extras
+dependencies[] = edw_extras
 
 ; Very common modules used in almost all projects
 dependencies[] = ctools
-; dependencies[] = date
-; dependencies[] = entity
-; dependencies[] = entityreference
-; dependencies[] = features
-; dependencies[] = ftools
+dependencies[] = date
+dependencies[] = entity
+dependencies[] = entityreference
+dependencies[] = features
+dependencies[] = ftools
 ; dependencies[] = wysiwyg
-; dependencies[] = jquery_update
-; dependencies[] = libraries
-; dependencies[] = link
-; dependencies[] = pathauto
-; dependencies[] = strongarm
-; dependencies[] = taxonomy_access_fix
-; dependencies[] = token
-; dependencies[] = uuid
-; dependencies[] = variable
+dependencies[] = jquery_update
+dependencies[] = libraries
+dependencies[] = link
+dependencies[] = pathauto
+dependencies[] = strongarm
+dependencies[] = taxonomy_access_fix
+dependencies[] = token
+dependencies[] = uuid
+dependencies[] = variable
 dependencies[] = views
 ; dependencies[] = wysiwyg
 
